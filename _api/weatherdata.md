@@ -2,7 +2,7 @@
 title: /weatherdata
 position: 1.6
 type: get
-description: Gets the full weather data details, including temperature, wind, astronomy, and more.
+description: Hi -- testing that the new stuff gets in. Gets the full weather data details, including temperature, wind, astronomy, and more.
 right_code: |
   ~~~ json
   return: |
